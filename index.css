@@ -1,0 +1,43 @@
+.title_sec{
+	    background: linear-gradient(rgba(0, 0, 0, 0.43),rgba(0, 0, 0, 0.5)),url(images/cover.jpg) no-repeat;
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+
+}
+#title .head_it{
+	margin-top: 200px;
+	color: #fff;
+}
+#title h1{
+	font-size: 4rem;
+}
+#title p{
+	font-size: 2rem;
+}
+
+#about img{
+	height: 400px;
+}
+#about .got{
+	margin:7%;
+}
+#about .got2{
+	margin-top:7%;
+}
+#footer{
+	height: 100%;
+    background-color:#131313fa;
+    color: #fff;
+}
+#footer .col-sm{
+	padding:10% 0%;
+}
+#footer h3{
+	margin: 45px 0px;
+}
+#footer .ic{
+	padding-right: 18px;
+    color:#177ea7;
+}
