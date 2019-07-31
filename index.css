@@ -1,0 +1,123 @@
+/*my portfolio*/
+.title_sec{
+	background: linear-gradient(rgba(0, 0, 0, 0.43),rgba(0, 0, 0, 0.5)),url(images/ser_cov3.jpeg) no-repeat;
+	height: 80vh;
+	background-size: cover;
+	background-position: center;
+	text-align: center;
+
+}
+#title .nav-item{
+	margin: 0px 8px;
+}
+#title .head_it{
+	margin-top: 66px;
+	color: #fff;
+	padding-top: 215px;
+}
+#title h1{
+	font-size: 4rem;
+	color: #ffd545;
+}
+#title p{
+	font-size: 2rem;
+}
+#title .bg-dark {
+    background-color: #03a9f4 !important;
+}
+
+#about .container{
+	margin-top: 100px;
+	margin-bottom: 70px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#about img{
+	height: 400px;
+	border:10px solid #1ed2ff;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	border-radius: 50%;
+}
+#about .got{
+	/*margin:7%;*/
+	padding: 5%;
+}
+#about .got2{
+	/*margin-top:7%;*/
+	padding: 7%;
+	text-align: center;
+}
+
+#Servi{
+	text-align: center;
+	padding: 50px;
+	background-color: #007167;
+	/*background: linear-gradient(rgba(221, 141, 41, 0.11),rgba(0, 0, 0, 0.9)),url(images/ser_cov2.jpg) no-repeat;
+	height: 100%;
+	background-size: cover;
+	background-position: center;*/
+	color: #FFF;
+}
+#Servi .top_msg{
+	margin-bottom: 37px;
+}
+#Servi h3{
+	
+}
+#Servi .box_s{
+	padding: 30px;
+	border-radius: 15px;
+	
+}
+#Servi i{
+	padding-bottom: 32px;
+}
+#Servi .box_s:hover{
+	color:#00fff6;
+}
+
+	/*GEllery part*/
+
+
+#gellery .container {
+    text-align: center;
+    padding-top: 3%;
+    box-shadow: 0 4px 8px 0 #009688, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 77px;
+    margin-bottom: 77px;
+}
+#gellery .col-md-6{
+
+	/*box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);*/
+	padding: 15px 0px;
+}
+
+#gellery img{
+
+	height: 193px;
+	width: 286px;
+}
+
+
+#footer{
+	height: 100%;
+    background-color:#02576c /*#131313fa*/;
+    color: #fff;
+}
+#footer .col-sm{
+	padding:10% 2%;
+}
+#footer h3{
+	margin: 45px 0px;
+}
+#footer .ic{
+	padding-right: 18px;
+    color:#177ea7;
+}
+
+#footer2{
+	background-color: #3e404ceb;
+	padding: 2% 0%;
+	color: #000;
+	text-align: center;
+}
