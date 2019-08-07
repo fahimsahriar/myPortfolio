@@ -7,6 +7,9 @@
 	text-align: center;
 
 }
+#title .nav{
+	position:sticky;
+}
 #title .nav-item{
 	margin: 0px 8px;
 	position: sticky;
