@@ -1,7 +1,7 @@
 /*my portfolio*/
 .title_sec{
 	background: linear-gradient(rgba(0, 0, 0, 0.43),rgba(0, 0, 0, 0.5)),url(images/ser_cov3.jpeg) no-repeat;
-	height: 80vh;
+	height: 101vh;
 	background-size: cover;
 	background-position: center;
 	text-align: center;
@@ -9,6 +9,7 @@
 }
 #title .nav-item{
 	margin: 0px 8px;
+	position: sticky;
 }
 #title .head_it{
 	margin-top: 66px;
@@ -23,7 +24,7 @@
 	font-size: 2rem;
 }
 #title .bg-dark {
-    background-color: #03a9f4 !important;
+    background-color: #06224d82 !important;
 }
 
 #about .container{
@@ -34,7 +35,7 @@
 
 #about img{
 	height: 400px;
-	border:10px solid #1ed2ff;
+	border: 6px solid #040a2b6e;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 	border-radius: 50%;
 }
