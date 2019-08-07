@@ -82,7 +82,7 @@
 #gellery .container {
     text-align: center;
     padding-top: 3%;
-    box-shadow: 0 4px 8px 0 #009688, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 4px 8px 0 #fff, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin-top: 77px;
     margin-bottom: 77px;
 }
